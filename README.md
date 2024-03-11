@@ -5,7 +5,7 @@ To run this script, you'll need Python installed on your system along with sever
 * pandas
 * cv2 (OpenCV)
 * matplotlib
-* scikit-image
+* skimage
 * scipy
 
 You can install these dependencies using pip:
