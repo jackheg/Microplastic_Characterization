@@ -1,4 +1,4 @@
-## Microplastic_Characterization
+## Laundry_Microplastic_Characterization
 # Purpose
 To run this script, you'll need Python installed on your system along with several dependencies:
 * numpy
